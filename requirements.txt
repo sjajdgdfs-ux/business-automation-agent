@@ -1,0 +1,7 @@
+google-genai
+python-dotenv
+rich
+streamlit
+pandas
+openpyxl
+pydantic

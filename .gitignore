@@ -1,0 +1,9 @@
+"`.env`
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store" | Set-Content -Encoding UTF8 "C:\Users\sameh\multi reseacrh agent\business-agent\.gitignore"
+.env
+
+.env
